@@ -27,7 +27,7 @@ A dynamic and responsive quiz application built with **React**, powered by **Vit
 - 🧭 Instant feedback on answers
 - 🧮 Score tracking and summary
 - 🔄 Restart quiz functionality
-- ⏱️ Optional timer (if implemented)
+- ⏱️ Timer implemented
 - 📱 Fully responsive design
 
 ---
