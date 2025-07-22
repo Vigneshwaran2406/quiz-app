@@ -1,12 +1,43 @@
-# React + Vite
+# 🧠 Quiz Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A dynamic and responsive quiz application built with **React**, powered by **Vite**. This app lets users take timed quizzes, view scores instantly, and restart as needed. Styled using **global CSS** for a clean and minimal look.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+🔗 [View Quiz App](https://vigneshwaran2406.github.io/quiz-app/)  
+*(Replace with actual deployed URL)*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧰 Tech Stack
+
+- ⚛️ React (JSX)
+- ⚡ Vite
+- 🎨 Global CSS
+- 🧠 useState, useEffect (React Hooks)
+- 🌐 GitHub Pages for hosting
+
+---
+
+## ✨ Features
+
+- ✅ Multiple choice questions
+- 🧭 Instant feedback on answers
+- 🧮 Score tracking and summary
+- 🔄 Restart quiz functionality
+- ⏱️ Optional timer (if implemented)
+- 📱 Fully responsive design
+
+---
+
+## 📁 Project Structure
+
+```bash
+src/
+├── components/       # Reusable UI components like QuestionCard, ScoreBoard
+├── data/             # Quiz questions JSON or JS
+├── App.jsx           # Main quiz logic and routing
+├── index.css         # Global CSS styling
+├── main.jsx          # Entry point
