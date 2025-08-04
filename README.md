@@ -7,7 +7,6 @@ A dynamic and responsive quiz application built with **React**, powered by **Vit
 ## 🚀 Live Demo
 
 🔗 [View Quiz App](https://vigneshwaran2406.github.io/quiz-app/)  
-*(Replace with actual deployed URL)*
 
 ---
 
